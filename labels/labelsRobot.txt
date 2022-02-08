@@ -1,0 +1,10 @@
+paper
+mouse
+laptop
+cup
+pen
+banana
+rhand
+lhand
+robot
+phone
